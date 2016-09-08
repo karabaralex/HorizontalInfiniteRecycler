@@ -1,3 +1,5 @@
+/build
+### Android template
 # Built application files
 *.apk
 *.ap_
@@ -38,5 +40,4 @@ captures/
 
 # Keystore files
 *.jks
-libs/
-src/.DS_Store
+
